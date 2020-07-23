@@ -2,7 +2,7 @@
 /*************************************************************/
 /* Libro.php
  * Objetivo: clase que encapsula el manejo de la entidad Libro
- * Autor: BAOZ
+ * Autor: ISL
  *************************************************************/
 error_reporting(E_ALL);
 include_once("Material.php");

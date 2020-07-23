@@ -4,7 +4,7 @@ Archivo:  ErroresAplic.php
 Objetivo: clase que encapsula los errores que maneja la aplicación
 		  Trabaja bajo el supuesto de que el texto del error se va 
 		  a presentar en HTML
-Autor:    BAOZ
+Autor:    ISL
 */
 class ErroresAplic{
 	private $nError=-1;

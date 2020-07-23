@@ -2,7 +2,7 @@
 /*************************************************************/
 /* AccesoDatos.php
  * Objetivo: clase que encapsula el acceso a la base de datos (PostgreSQL)
- * Autor: BAOZ
+ * Autor: ISL
  *************************************************************/
  error_reporting(E_ALL);
  class AccesoDatos{

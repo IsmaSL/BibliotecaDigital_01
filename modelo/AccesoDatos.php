@@ -4,7 +4,7 @@
  * Objetivo: clase que encapsula el acceso a la base de datos (caso PDO)
  *			 Requiere habilitar php_pdo.dll y php_pdo_tipogestor.dll si 
  *			 es PHP versión < 5.3
- * Autor: BAOZ
+ * Autor: ISL
  *************************************************************/
  error_reporting(E_ALL ^ E_NOTICE);
  class AccesoDatos{

@@ -2,7 +2,7 @@
 /*************************************************************/
 /* Multa.php
  * Objetivo: clase que encapsula el manejo de la entidad Multa
- * Autor: BAOZ
+ * Autor: ISL
  *************************************************************/
 error_reporting(E_ALL);
 include_once("AccesoDatos.php");
